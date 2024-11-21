@@ -2,7 +2,7 @@
 # GitHub username: huynhvan126
 # Date: 11/20/2024
 # Description: Write a generator function named that doesn't require any arguments and generates a sequence.
-def count_seq(seq):
+def count_seq():
     """Generator function for counting sequences."""
     current_term = "2"
     while True:
